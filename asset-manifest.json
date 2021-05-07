@@ -1,20 +1,33 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/myapp/static/js/main.63a7ee99.chunk.js",
-    "main.js.map": "/myapp/static/js/main.63a7ee99.chunk.js.map",
+    "main.css": "/myapp/static/css/main.c228e89e.chunk.css",
+    "main.js": "/myapp/static/js/main.0cbd9745.chunk.js",
+    "main.js.map": "/myapp/static/js/main.0cbd9745.chunk.js.map",
     "runtime-main.js": "/myapp/static/js/runtime-main.e9843601.js",
     "runtime-main.js.map": "/myapp/static/js/runtime-main.e9843601.js.map",
-    "static/js/2.d1aa40a3.chunk.js": "/myapp/static/js/2.d1aa40a3.chunk.js",
-    "static/js/2.d1aa40a3.chunk.js.map": "/myapp/static/js/2.d1aa40a3.chunk.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/myapp/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.a3b5fa70.chunk.js": "/myapp/static/js/2.a3b5fa70.chunk.js",
+    "static/js/2.a3b5fa70.chunk.js.map": "/myapp/static/js/2.a3b5fa70.chunk.js.map",
     "index.html": "/myapp/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/myapp/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.d1aa40a3.chunk.js.LICENSE.txt": "/myapp/static/js/2.d1aa40a3.chunk.js.LICENSE.txt"
+    "static/css/2.7fc9bc2b.chunk.css.map": "/myapp/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.c228e89e.chunk.css.map": "/myapp/static/css/main.c228e89e.chunk.css.map",
+    "static/js/2.a3b5fa70.chunk.js.LICENSE.txt": "/myapp/static/js/2.a3b5fa70.chunk.js.LICENSE.txt",
+    "static/media/0.111f5ec5.jpeg": "/myapp/static/media/0.111f5ec5.jpeg",
+    "static/media/BurgerApp.d92199f2.png": "/myapp/static/media/BurgerApp.d92199f2.png",
+    "static/media/FitnessTracker.4679cab8.png": "/myapp/static/media/FitnessTracker.4679cab8.png",
+    "static/media/MusicMvp.43e34ce5.png": "/myapp/static/media/MusicMvp.43e34ce5.png",
+    "static/media/MvpLibrary.34e9d058.png": "/myapp/static/media/MvpLibrary.34e9d058.png",
+    "static/media/computerKart.7037fdad.png": "/myapp/static/media/computerKart.7037fdad.png",
+    "static/media/computerTransparent.d23e27b1.png": "/myapp/static/media/computerTransparent.d23e27b1.png",
+    "static/media/dogblogg.7ca7ddef.jpeg": "/myapp/static/media/dogblogg.7ca7ddef.jpeg",
+    "static/media/img-6.047226b0.jpg": "/myapp/static/media/img-6.047226b0.jpg",
+    "static/media/App.css": "/myapp/static/media/img-8.fabdf94d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e9843601.js",
-    "static/js/2.d1aa40a3.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.63a7ee99.chunk.js"
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.a3b5fa70.chunk.js",
+    "static/css/main.c228e89e.chunk.css",
+    "static/js/main.0cbd9745.chunk.js"
   ]
 }
