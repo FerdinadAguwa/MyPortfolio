@@ -1,0 +1,293 @@
+
+
+.text__section{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    background: linear-gradient(160deg, black 90%, #f0f9ff 0%);
+    justify-content: center;
+    padding-bottom: 100px;
+    
+    
+}
+
+.text--01{
+    width: 100%;
+     margin-top: 30px; 
+     margin-left: -65px; 
+    z-index: 1;
+    color: white;
+}
+
+.text--01>h3{
+    margin-bottom: 0;
+    font-size: 100px;
+}
+
+.text--01>p{
+
+    font-size: 22px;
+    font-weight: 600;
+    width: 610px;
+    margin-left: 75px;
+   
+}
+.transParentImg{
+    width: 100%;
+  
+}
+.transImg{
+    width: 100%;
+    max-height: 550;
+    background: repeating-linear-gradient(45deg, #b3d0de, transparent 100px);
+    transform: rotate(-0.1deg);
+}
+
+
+.informationSection{
+    background: aliceblue;
+   
+}
+
+
+.fa-check{
+    color: rgb(255, 0, 0);
+}
+
+.text--01>li{
+    list-style-type: none;
+    font-size: 19px;
+    margin-top: 3.5px;
+}
+
+.titleBugetText{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: aliceblue;
+}
+
+
+
+.CardInfoSection{
+    display: flex;
+    margin-right: 20px;
+    justify-content: center;
+}
+
+.KartImage{
+    margin-right: 52px;
+}
+.Kart{
+    z-index: 1;
+}
+
+
+.paymentCard{
+    border: 7px solid black;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    min-height: 420px;
+    height: fit-content;
+}
+
+.paymentWrapper{
+background: aliceblue;
+}
+
+.paymentCardContainer{
+display: flex;
+
+
+}
+
+.crossOutSpan{
+color: rgb(164, 159, 159);
+text-decoration: line-through;
+}
+
+
+.text--02{
+text-align: center;
+padding-bottom: 20px;
+padding-top: 20px;
+}
+
+
+@media screen and (max-width: 1200px){
+
+    .paymentCardContainer{
+        display: flex;
+        justify-content: center;  
+         margin-left: -168px;
+            
+                 
+        }
+    }
+
+@media screen and (max-width: 1150px){
+    .CardInfoSection{
+        display: flex;
+        flex-direction: column;
+        margin: 1px;
+        justify-content: center;
+    }
+
+    .paymentCardContainer{
+        display: flex;
+        justify-content: center; 
+            
+                 
+        }
+
+        .paymentCardContainer{
+            display: flex;
+            justify-content: center;  
+             margin:1px;
+                
+                     
+            }
+
+        .titleBugetText{
+            padding-top: 50px;
+            padding-bottom: 0px;
+            padding-left: 20px;
+            padding-right: 20px;
+            text-align: center;
+            background: aliceblue;
+        }
+
+        .informationSection{
+            background: aliceblue;
+            /* margin-top: -100px; */
+          
+        }
+
+}
+
+
+@media screen and (max-width: 1024px){
+    .text__section{
+        padding: 10px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        background:linear-gradient(300deg, black, #d7d2d24a);
+    }
+
+    .text--01{
+        margin-top: 64px;
+        margin-left:0;
+        z-index: 1;
+        align-content: center;
+         color: white;      
+    }
+
+
+    .text--01>p{
+        font-size: 22px;
+        font-weight: 600;
+        width:100%;
+        margin-left: 0px;
+       
+    }
+
+    
+    .transImg{
+        
+        background: repeating-linear-gradient(45deg, #b3d0de, transparent 100px);
+        transform: rotate(-0.1deg);
+    }
+
+    
+        
+    }
+
+    @media screen and (max-width: 768px){
+
+        .text--01>h3{
+            margin-bottom: 0;
+            font-size: 50px;
+        }
+
+        .text--01>p{
+            font-size: 15px;
+            font-weight: 600;
+            width:100%;
+            margin-left: 0px;
+           
+        }
+
+        .titleBugetText {
+            padding-top: 50px;
+            padding-bottom: 0px;
+            padding-left: 100px;
+            padding-right: 100px;
+            text-align: center;
+            background: aliceblue;
+        }
+    
+        .text--01>p {
+            padding-right: 75px;
+            padding-left: 75px;
+            font-size: 19px;
+            font-weight: 600;
+            width: 100%;
+            margin-left: 0px;
+        }
+
+     .KartImage{
+            margin-right: 0px;
+            width: 150px;
+        }
+    
+    .paymentCardContainer{
+        display: flex;
+        min-width: 100%;
+        flex-direction: column;
+        justify-content: center;        
+        }
+
+        .paymentCard{
+            border: 7px solid black;
+            text-align: center;
+            border-radius: 10px;
+            margin-left: 20px;
+            margin-right: 20px;
+            padding-left: 50px;
+            padding-right: 50px;
+            min-height: 420px;
+            height: fit-content;
+        }
+
+    
+    }
+
+    @media screen and (max-width: 350px){
+
+        .paymentCardContainer{
+            display: flex;
+            justify-content: center;  
+             margin:1px;
+            
+                
+                     
+            }
+
+            .paymentCard{
+                border: 7px solid black;
+                text-align: center;
+                border-radius: 10px;
+                margin-left: 20px;
+                margin-right: 20px;
+                padding-left: 50px;
+                padding-right: 50px;
+                min-height: 420px;
+                height: fit-content;
+                width: 100%;
+            }
+
+    }

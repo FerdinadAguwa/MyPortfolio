@@ -1,0 +1,144 @@
+
+.ProjectMain {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background: 
+  linear-gradient(-8deg,
+   #bbbbbb 24%, #fefefe 58%, #bbbbbb 34%);
+
+}
+.ProjectContainer {
+  width: 80vw;
+  max-width: 620px;
+}
+.ProjectSection{
+  max-width: 1124px;
+  margin: 0 auto;
+}
+.projectH1 {
+  font-size: 2rem;
+}
+.ProjTitle {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+.underline {
+  height: 0.25rem;
+  width: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+  background: #467585;
+}
+.Card {
+  display: grid;
+  place-items: center;
+  padding: 1.5rem 2rem;
+  background: #fefeff00;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.img-container {
+  z-index: 1;
+  position: relative;
+}
+.Card img {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+}
+.quote {
+  display: grid;
+  place-items: center;
+  padding: 0.15rem;
+  position: absolute;
+  top: 0;
+  left: 15px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  color: white;
+  background: #49a6e9;
+  font-size: 50px;
+}
+
+.award{
+  font-size: 20px;
+}
+
+.circle {
+  position: absolute;
+    z-index: -1;
+    top: -5px;
+    left: 10px;
+    border-radius: 100%;
+    background: #f4fcfc;
+    width: 200px;
+    height: 200px;
+}
+.ProjectName {
+  text-transform: capitalize;
+  letter-spacing: 0.1rem;
+  font-weight: bold;
+}
+.ProjectPosition {
+  text-transform: uppercase;
+  color: #49a6e9;
+}
+.ProjectText {
+  margin: 1rem 0;
+  color: #000000;
+}
+.progFas {
+  color: #49a6e9;
+  cursor: pointer;
+  padding: 1.5rem;
+  font-size: 1.5rem;
+}
+.fa-quote-right {
+  padding: 0;
+  
+}
+.button-container {
+  display: flex;
+  flex-direction: column;
+}
+.button-container button {
+  padding: 0.5rem;
+  cursor: pointer;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background: #969697;
+  border-radius: 0.25rem;
+  color: #ffffff;
+  outline: none;
+  border: solid 1px #3e2c2c;
+}
+
+.LinkDiv{
+text-align: center;
+display: flex;
+color: cyan;
+text-decoration: none;
+}
+
+.LinkDecor{
+  color: #d3eefb;
+text-decoration: none;
+}
+.ProjectLinkDiv{
+  padding: 20px;
+}
+
+.leftRight{
+  padding: 13px;
+}
+
+
+.quote .fas {
+  font-size: 1rem;
+  color: white;
+}

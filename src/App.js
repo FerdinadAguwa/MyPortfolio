@@ -1,18 +1,40 @@
-import './App.css';
-import {Switch, Route } from "react-router-dom";
-import Hello from "./components/Hello";
-import About from "./components/About";
+import React, {useEffect}from "react";
+import Navbar from "./components/Navbars";
+import { HashRouter as Router, Switch, Route} from "react-router-dom";
+import "./App.css";
+import Home from "./components/pages/Home";
+import Services from "./components/pages/Services";
+import Projects from "./components/pages/Projects";
+import ScrollToTop from "./components/Scroll";
+import Aos from "aos";
+import "aos/dist/aos.css";
+
+
 
 
 function App() {
+
+  useEffect(() => {
+    Aos.init({})
+    
+    },[])
+
+  
   return (
     <>
-    <Switch>
-      <Route exact path="/" component ={Hello}/>
-      <Route exact path="/about" component ={About}/>
-      {/* <Route component ={NotFound} status={404}/> */}
-    </Switch>
-     
+    
+      <Router >
+        <Navbar />
+        <ScrollToTop/>
+        <Switch>
+          <Route path="/" exact component = {Home}/>
+          <Route path="/services" exact component = {Services}/>
+          <Route path="/projects" exact component = {Projects}/>
+         
+          
+        </Switch>
+      </Router>
+      
     </>
   );
 }

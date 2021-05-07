@@ -1,0 +1,54 @@
+
+  
+.customBackground{
+    display: flex;
+}
+  
+  .figure {
+    width: 100%;
+    transform: translate(calc(50vw - 33.3333vmin), calc(50vh - 33.3333vmin));
+  }
+  
+  .turn{
+    display: inline-block;
+    padding: 11.1111vmin;
+    vertical-align:top;
+    border-radius: 0 0 100% 50%;
+  
+  }
+  .one {
+    background: conic-gradient(transparent, #b16b88, #d76d77, #a7634e, #fcab63, #fedc8c, #fbf8b0, #e0f3a1, #aadda2, #69bda9, #4288b5, #4288b5);
+    transform: rotate(90deg) scale(0.9);
+  }
+ .two {
+    background: conic-gradient(transparent, #9e0142, #d13b4b, #f0704a, #fcab63, #fedc8c, #fbf8b0, #e0f3a1, #aadda2, #69bda9, #4288b5, #4288b5);
+    transform: rotate(180deg) scale(0.9);
+  }
+ .three {
+    background: conic-gradient(transparent, #9e0142, #d13b4b, #f0704a, #fcab63, #fedc8c, #fbf8b0, #e0f3a1, #aadda2, #69bda9, #4288b5, #4288b5);
+    transform: rotate(270deg) scale(0.9);
+  }
+  .four {
+    background: conic-gradient(transparent, #9e0142, #d13b4b, #f0704a, #fcab63, #fedc8c, #fbf8b0, #e0f3a1, #aadda2, #69bda9, #4288b5, #4288b5);
+    transform: rotate(360deg) scale(0.9);
+  }
+  .five {
+    background: conic-gradient(transparent, #9e0142, #d13b4b, #f0704a, #fcab63, #fedc8c, #fbf8b0, #e0f3a1, #aadda2, #69bda9, #4288b5, #4288b5);
+    transform: rotate(450deg) scale(0.9);
+  }
+  .six {
+    background: conic-gradient(transparent, #9e0142, #d13b4b, #f0704a, #fcab63, #fedc8c, #fbf8b0, #e0f3a1, #aadda2, #69bda9, #4288b5, #4288b5);
+    transform: rotate(540deg) scale(0.9);
+  }
+  .seven {
+    background: conic-gradient(transparent, #9e0142, #d13b4b, #f0704a, #fcab63, #fedc8c, #fbf8b0, #e0f3a1, #aadda2, #69bda9, #4288b5, #4288b5);
+    transform: rotate(630deg) scale(0.9);
+  }
+  .eight {
+    background: conic-gradient(transparent, #9e0142, #d13b4b, #f0704a, #fcab63, #fedc8c, #fbf8b0, #e0f3a1, #aadda2, #69bda9, #4288b5, #4288b5);
+    transform: rotate(720deg) scale(0.9);
+  }
+  .nine {
+    background: conic-gradient(transparent, #9e0142, #d13b4b, #f0704a, #fcab63, #fedc8c, #fbf8b0, #e0f3a1, #aadda2, #69bda9, #4288b5, #4288b5);
+    transform: rotate(810deg) scale(0.9);
+  }
