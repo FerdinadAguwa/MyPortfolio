@@ -27,7 +27,7 @@ const reviews = [
         GitLink: "fab fa-github"  ,
         ProjectLink: "fas fa-tv",
         gitProject:"https://github.com/FerdinadAguwa/workoutTracker",
-        deployProject:"limitless-headland-73323.herokuapp.com/"
+        deployProject:"https://limitless-headland-73323.herokuapp.com/?id=608c74dbdf4f7700158d9483"
     },
     {
       id: 3,

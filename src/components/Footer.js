@@ -9,8 +9,7 @@ function Footer() {
         <div className="footer-container">
             <section className="footer-subscription">
                 <p className="footer-subscription-heading">
-                    Join the adventure newsletter to recieve deals
-                </p>
+This section is to showcase all my skills and ability to create                </p>
                 <p className="footer-subscription-text">
                     you can unsubscribe at anytime
                 </p>
@@ -28,7 +27,7 @@ function Footer() {
                 <div className="footer-link-wrapper">
                     <div className="footer-link-items">
                         <h2>About Us</h2>
-                        <Link to="/services">How it works</Link>
+                        <Link to="/">How it works</Link>
                         <Link to="/">Testimonials</Link>
                         <Link to="/">Careers</Link>
                         <Link to="/">Investors</Link>
@@ -36,18 +35,18 @@ function Footer() {
 
                     </div>
                     <div className="footer-link-items">
-                        <h2>About Us</h2>
-                        <Link to="/services">How it works</Link>
-                        <Link to="/">Testimonials</Link>
-                        <Link to="/">Careers</Link>
-                        <Link to="/">Destinations</Link>
-                        <Link to="/">Sponsorships</Link>
+                        <h2>Let Us Help You</h2>
+                        <Link to="/">Advertise</Link>
+                        <Link to="/">Self Promotion</Link>
+                        <Link to="/">Sell Apps</Link>
+                        <Link to="/">Connect</Link>
+                        <Link to="/">Blog</Link>
 
                     </div>
                     <div className="footer-link-wrapper">
                         <div className="footer-link-items">
                             <h2>Videos</h2>
-                            <Link to="/services">Submit Video</Link>
+                            <Link to="/">Submit Video</Link>
                             <Link to="/">Ambassadors</Link>
                             <Link to="/">Agency</Link>
                             <Link to="/">Influencer</Link>
@@ -55,7 +54,7 @@ function Footer() {
                         </div>
                         <div className="footer-link-items">
                             <h2>Social Media</h2>
-                            <Link to={{ pathname: "https://www.instagram.com/watchferd/" }} target="_blank"> Instagram</Link>
+                            <Link to="/"> Instagram</Link>
                             <Link to="/">Facebook</Link>
                             <Link to="/">Youtube</Link>
                             <Link to="/">Twitter</Link>
