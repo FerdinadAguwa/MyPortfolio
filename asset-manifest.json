@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.8dbeb97f.chunk.css",
-    "main.js": "/MyPortfolio/static/js/main.e29ca491.chunk.js",
-    "main.js.map": "/MyPortfolio/static/js/main.e29ca491.chunk.js.map",
+    "main.js": "/MyPortfolio/static/js/main.e875bc2e.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.e875bc2e.chunk.js.map",
     "runtime-main.js": "/MyPortfolio/static/js/runtime-main.dca708b6.js",
     "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.dca708b6.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/MyPortfolio/static/css/2.7fc9bc2b.chunk.css",
@@ -17,6 +17,7 @@
     "static/media/FitnessTracker.4679cab8.png": "/MyPortfolio/static/media/FitnessTracker.4679cab8.png",
     "static/media/MusicMvp.43e34ce5.png": "/MyPortfolio/static/media/MusicMvp.43e34ce5.png",
     "static/media/MvpLibrary.34e9d058.png": "/MyPortfolio/static/media/MvpLibrary.34e9d058.png",
+    "static/media/ResumeTechPDF.284ae532.pdf": "/MyPortfolio/static/media/ResumeTechPDF.284ae532.pdf",
     "static/media/computerKart.7037fdad.png": "/MyPortfolio/static/media/computerKart.7037fdad.png",
     "static/media/computerTransparent.d23e27b1.png": "/MyPortfolio/static/media/computerTransparent.d23e27b1.png",
     "static/media/dogblogg.7ca7ddef.jpeg": "/MyPortfolio/static/media/dogblogg.7ca7ddef.jpeg",
@@ -28,6 +29,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.a3b5fa70.chunk.js",
     "static/css/main.8dbeb97f.chunk.css",
-    "static/js/main.e29ca491.chunk.js"
+    "static/js/main.e875bc2e.chunk.js"
   ]
 }
