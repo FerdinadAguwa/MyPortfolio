@@ -1,7 +1,7 @@
 import React from 'react'
 import ProfileImage from "../images/0.jpeg"
 import "./CustomCard.css"
-import {Link} from "react-router-dom"
+import Resume from "../resume/ResumeTechPDF.pdf"
 
 
 function CustomCard() {
@@ -20,7 +20,8 @@ function CustomCard() {
     <p><i className="fab fa-linkedin"></i> LinkedIn: <a href="https://www.linkedin.com/in/ferdinad-aguwa-01924b1ab/" target="_blank" rel="noopener noreferrer"  className="CustomCardLinks" > Ferdinad Aguwa</a></p>
     <p><i className="fab fa-github"></i> GitHub: <a href="https://github.com/FerdinadAguwa" target="_blank" rel="noopener noreferrer" className="CustomCardLinks">FerdinadAguwa</a></p>
     <p><i className="fas fa-at"></i> Email:<a href="mailto:Ferd.aguwa@yahoo.com"  target="_blank" rel="noopener noreferrer"  className="CustomCardLinks">Ferd.Aguwa@yahoo.com</a></p>
-    <p><i class="far fa-file"></i> <Link to={{pathname:"tel:8172989406"}} target="_blank" className="CustomCardLinks">RESUME</Link></p>
+    <p><i className="far fa-file"></i><a href={Resume}  target="_blank" rel="noopener noreferrer"  className="CustomCardLinks">Resume</a></p>
+
   </div>
 
 

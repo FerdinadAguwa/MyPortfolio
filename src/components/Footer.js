@@ -64,7 +64,7 @@ This section is to showcase all my skills and ability to create                <
                 </div>
 
             </div>
-
+{/* 
             <section className="social-media">
                 <div className="social-media-wrap">
                     <div className="footer-logo">
@@ -74,7 +74,7 @@ This section is to showcase all my skills and ability to create                <
                     <small className="website-rights"> FERD 2020</small>
                     <div className="social-icons">
                         <Link className="social-icon-link facebook"
-                        to="/" target="_blank" aria-label="Facebook">
+                        to="#" target="_blank" aria-label="Facebook">
                             <i className="fab fa-facebook-f" />
                         </Link>
                         <Link className="social-icon-link instagram"
@@ -92,7 +92,7 @@ This section is to showcase all my skills and ability to create                <
                     </div>
 
                 </div>
-            </section>
+            </section> */}
 
         </div>
     )
