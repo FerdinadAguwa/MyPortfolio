@@ -13,7 +13,7 @@ MIT
 ## Contributing
 
 ## Links
-* GitHub repository URL: https://ferdinadaguwa.github.io/myapp/#/
+* GitHub repository URL: https://ferdinadaguwa.github.io/MyPortfolio/#/
 ## Technologies
 ### Languages
 * HTML, CSS, JavaScript, JQuery, React, Javascript, Node, Style Components
