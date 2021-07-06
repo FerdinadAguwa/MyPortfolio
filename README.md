@@ -26,7 +26,7 @@ Main Features
 
 * Ferdinad Aguwa
    * Created the initial Github repository and the rough skeleton MVP file design 
-   * Designed the "Home","Service", and "Projects" page
+   * Designed the "Home", "Service" and "Projects" page
    * Used react to create different components.
    * Created Sliding Carousel
    * Deployed the application to Github Pages
