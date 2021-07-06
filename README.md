@@ -22,11 +22,11 @@ MIT
 ## Page Preview
 * Screenshots
 
-<img src= "images/Screen Shot 2021-01-03 at 8.39.33 PM.png"
+<img src= "src/images/Screen Shot 2021-06-02 at 7.02.23 PM.png"
 alt= "Header to the page "
 width=500px
 />
-<img src= "images/Screen Shot 2021-01-03 at 8.39.51 PM.png"
+<img src= "src/images/Screen Shot 2021-06-02 at 7.02.41 PM.png"
 alt= "Pictures with project sections"
 width= 500px
 />
@@ -38,7 +38,7 @@ width= 500px
 * Github username: FerdinadAguwa
 * Email: ferd.aguwa@yahoo.com
 
-<img src= "images/0.jpeg"
+<img src= "src/images/0.jpeg"
      alt="Contributer Photo"
      width=270px
      style="float: left; margin-right: 10px;"/>
